@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-👋 Hi, I’m @yawsamcode<br>👀 I’m interested in  Front-end Web Development<br>🌱 I’m currently learning ... Javascript<br>💞️ I’m looking to collaborate on ... Web projects<br>📫 How to reach me ... samuelacheampong108@gmail.com
+👋 Hi, I’m Samuel O. Acheamppong <br>👀 I’m interested in  Front-end Web Development<br>🌱 I’m currently learning ... Javascript<br>💞️ I’m looking to collaborate on ... Web projects<br>📫 How to reach me ... samuelacheampong108@gmail.com
 
 
 ## 🌐 Socials:
